@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'http://onetimefile.local';
+$config['base_url'] = 'http://ci3.onetimefile.local';
 
 /*
 |--------------------------------------------------------------------------
