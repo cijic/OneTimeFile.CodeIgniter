@@ -1,6 +1,6 @@
 # OneTimeFile
 
-Simple filehoster with AJAX support. Based on CodeIgniter3. Also may be used Laravel 5 version.
+Simple filehoster with AJAX support. Based on CodeIgniter3.
 
 Support:
 * AJAX uploading;
